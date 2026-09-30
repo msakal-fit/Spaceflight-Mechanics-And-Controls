@@ -8,7 +8,15 @@ satellite-scenario functionality:
   attitude.
 - [`satViz_c_rel_dyn.m`](satViz_c_rel_dyn.m): target/chaser relative dynamics.
 
-The scripts are preserved from the coursework branch. They expect their saved
-MATLAB data files and custom 3-D model assets to be available locally before
-running unchanged.
+The scripts, their saved MATLAB data files, and the two custom 3-D model assets
+are included together in this folder. From the repository root, run a
+visualization unchanged with:
+
+```matlab
+cd Viz
+satViz_a_pos_vel
+```
+
+Use `satViz_b_pos_vel_att` or `satViz_c_rel_dyn` for the other two scenarios.
+MATLAB satellite-scenario functionality is required.
 

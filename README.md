@@ -35,6 +35,11 @@ hw4
 
 Requirements vary by script.
 
+The Earth texture, visualization models, and saved visualization datasets used
+by the preserved scripts are included. See
+[`ASSET_ACKNOWLEDGMENTS.md`](ASSET_ACKNOWLEDGMENTS.md) for the Earth-texture
+credit.
+
 Representative result figures are retained beside the corresponding homework
 README files. The numerical values and plots are course-work results, not
 current validation of a spacecraft system.
