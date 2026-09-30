@@ -10,6 +10,22 @@ excludes course-supplied or third-party material that is not appropriate to
 redistribute publicly. It is a learning portfolio, not flight-qualified
 software.
 
+## Highlights
+
+### Geopotential orbit propagation — HW2
+
+ISS-orbit propagation using the coursework geopotential configuration with
+degree 10 and order 10.
+
+![ISS orbit comparison with geopotential degree 10 and order 10](HW2/plot_b_LT1.png)
+
+### Asteroid intercept trajectory — HW3
+
+Coursework intercept trajectory with the initial position, burn start, and
+target intercept point shown in ECI coordinates.
+
+![Asteroid intercept trajectory](HW3/plot_hw32.png)
+
 ## Homework collection
 
 | Folder | Focus | Entry point |
