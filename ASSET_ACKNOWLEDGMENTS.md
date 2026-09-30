@@ -15,8 +15,12 @@ NASA endorsement of this repository.
 
 ## Visualization models and data
 
-`Viz/CubeSat-2U.glb`, `Viz/ICESat.glb`, `Viz/sat_data.mat`, and
+`Viz/CubeSat-ICECube.glb`, `Viz/ICESat.glb`, `Viz/sat_data.mat`, and
 `Viz/sat_rel_dyn_data.mat` are the exact model and saved-data files used by the
 coursework visualization scripts. They are included so the retained scripts can
-run from the `Viz/` directory without code changes.
+run from the `Viz/` directory.
 
+- `CubeSat-ICECube.glb`: CubeSat – ICECube (a 3U CubeSat); source:
+  NASA/Christopher R. Meaney. [NASA 3-D Resources](https://science.nasa.gov/3d-resources/cubesat-icecube/)
+- `ICESat.glb`: Ice, Clouds, and Land Elevation Satellite (ICESat); source:
+  NASA/Ames Research Center. [NASA 3-D Resources](https://science.nasa.gov/3d-resources/ice-clouds-and-land-elevation-satellite-icesat-a/)
