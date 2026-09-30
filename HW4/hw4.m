@@ -64,8 +64,8 @@ save('./HW4/sat_data.mat', 'time_array', 'pos_array', 'v_array', 'q_array');
 
 %% Attitude Animation
 % animate the satellite dynamics
-scale_factor = 1/4000; % scale factor for the satellite size
-animate_attitude(time_array, q_array, 'qua', scale_factor * pos_array);
+% scale_factor = 1/4000; % scale factor for the satellite size
+% animate_attitude(time_array, q_array, 'qua', scale_factor * pos_array);
 
 %% plot results
 
