@@ -1,4 +1,4 @@
-load('HW4/simulation_data.mat'); % Load the satellite data
+load('HW4/sat_data.mat'); % Load the satellite data
 
 time_array = t_out;     % 1xN vector containing simulation time points
 q_array = q_history;    % 4xN array containing quaternion history
