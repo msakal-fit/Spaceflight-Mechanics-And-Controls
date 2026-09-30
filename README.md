@@ -19,6 +19,7 @@ software.
 | [`HW3`](HW3/) | One-tangent-burn transfer, Lambert targeting, ECI-to-LVLH conversion, and rendezvous control | [`HW3/README.md`](HW3/README.md) |
 | [`HW4`](HW4/) | Coupled two-body orbit and rigid-body attitude dynamics using quaternions | [`HW4/README.md`](HW4/README.md) |
 | [`shared`](shared/) | Convenience copies of the two cross-homework MATLAB utilities | [`shared/README.md`](shared/README.md) |
+| [`Viz`](Viz/) | MATLAB satellite-scenario visualization scripts | [`Viz/README.md`](Viz/README.md) |
 
 ## Running the work
 
@@ -37,9 +38,3 @@ Requirements vary by script.
 Representative result figures are retained beside the corresponding homework
 README files. The numerical values and plots are course-work results, not
 current validation of a spacecraft system.
-
-## Public-release scope
-
-See [`NOTICE.md`](NOTICE.md) for intentionally omitted course or third-party
-dependencies and assets. A few preserved scripts still name those original
-helpers/assets; their source has deliberately not been changed.

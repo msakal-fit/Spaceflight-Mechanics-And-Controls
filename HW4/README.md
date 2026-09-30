@@ -11,9 +11,5 @@ dynamics. The entry point is [`hw4.m`](hw4.m), which:
 4. Produces orbit, angular-velocity, quaternion, and quaternion-norm plots;
    it also saves simulation data for an attitude animation.
 
-The original classroom animation helper was MATLAB P-code and is intentionally
-not redistributed in this public portfolio. The submission code is retained
-unchanged, so the animation call remains in place; run the dynamics and plot
-sections with an equivalent local animation helper available on the MATLAB
-path.
-
+The original MATLAB P-code animation helper is included with the submitted
+homework files. The submission code and its animation call are unchanged.
