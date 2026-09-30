@@ -58,7 +58,7 @@ pointAt(sat, attTS, ...
 
 % Customize the Satellite Visualization
 % Set a custom 3-D model and display coordinate axes.
-sat.Visual3DModel = "CubeSat-ICECube.glb";
+sat.Visual3DModel = "CubeSat-2U.glb";
 sat.Visual3DModelScale = 1; % Adjust the scale of the model
 coordinateAxes(sat, 'Scale', 3);
 
