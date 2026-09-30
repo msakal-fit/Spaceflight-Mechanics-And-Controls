@@ -20,6 +20,17 @@ target intercept point shown in ECI coordinates.
 
 ![Asteroid intercept trajectory](HW3/plot_hw32.png)
 
+### Satellite visualization — Viz
+
+Time-stamped position, velocity, and quaternion attitude playback for the
+coursework 2U CubeSat model in MATLAB Satellite Scenario Viewer.
+
+![Satellite attitude visualization](Viz/satViz_b.png)
+
+Target/chaser visualization using the saved relative-dynamics scenario data.
+
+![Target and chaser relative-dynamics visualization](Viz/satViz_c.png)
+
 ## Homework collection
 
 | Folder | Focus | Entry point |
