@@ -1,0 +1,9 @@
+# macOS
+.DS_Store
+
+# MATLAB editor and generated artifacts
+*.asv
+*.m~
+slprj/
+HW4/sat_data.mat
+
