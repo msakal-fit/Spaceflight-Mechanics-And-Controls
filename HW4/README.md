@@ -13,3 +13,10 @@ dynamics. The entry point is [`hw4.m`](hw4.m), which:
 
 The original MATLAB P-code animation helper is included with the submitted
 homework files. The submission code and its animation call are unchanged.
+
+## Result
+
+Running `hw4.m` exports the three-panel result figure below to
+`output_hw4.png` for this README.
+
+![HW4 angular-rate, quaternion, and quaternion-norm results](output_hw4.png)

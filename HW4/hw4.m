@@ -76,7 +76,7 @@ grid on; axis equal;
 xlabel('X [km]'); ylabel('Y [km]'); zlabel('Z [km]');
 title('Satellite Orbit Trajectory');
 
-figure;
+fig_results = figure;
 subplot(3,1,1);
 plot(t_orbits, omega_history');
 title('Angular Velocity over Time');
@@ -99,3 +99,7 @@ xlabel('Time (s)'); ylabel('Norm');
 ylim([0.995 1.005]);
 legend('||q||');
 grid on;
+
+% Export the complete results figure for the homework README.
+output_file = fullfile(fileparts(mfilename('fullpath')), 'output_hw4.png');
+exportgraphics(fig_results, output_file, 'Resolution', 200);
