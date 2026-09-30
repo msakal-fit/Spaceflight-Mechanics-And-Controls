@@ -1,13 +1,7 @@
 # Spaceflight Mechanics and Controls
 
-Public portfolio copy of MATLAB coursework completed by Morokot Sakal for
 **AEE-5805: Spaceflight Mechanics and Controls** at Florida Institute of
-Technology (Spring 2025).
-
-The MATLAB source and recorded result figures are preserved from the submitted
-coursework. This repository adds only portfolio-oriented documentation and
-excludes course-supplied or third-party material that is not appropriate to
-redistribute publicly. It is a learning portfolio, not flight-qualified
+Technology (Spring 2025). It is a learning portfolio, not flight-qualified
 software.
 
 ## Highlights
@@ -55,7 +49,3 @@ The Earth texture, visualization models, and saved visualization datasets used
 by the preserved scripts are included. See
 [`ASSET_ACKNOWLEDGMENTS.md`](ASSET_ACKNOWLEDGMENTS.md) for the Earth-texture
 credit.
-
-Representative result figures are retained beside the corresponding homework
-README files. The numerical values and plots are course-work results, not
-current validation of a spacecraft system.
